@@ -1,0 +1,7 @@
+C:\Users\Daniel\Documents\CodeTraining\LibraryDemo\bin\Debug\LibraryDemo.exe.config
+C:\Users\Daniel\Documents\CodeTraining\LibraryDemo\bin\Debug\LibraryDemo.exe
+C:\Users\Daniel\Documents\CodeTraining\LibraryDemo\bin\Debug\LibraryDemo.pdb
+C:\Users\Daniel\Documents\CodeTraining\LibraryDemo\obj\Debug\LibraryDemo.csproj.AssemblyReference.cache
+C:\Users\Daniel\Documents\CodeTraining\LibraryDemo\obj\Debug\LibraryDemo.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\CodeTraining\LibraryDemo\obj\Debug\LibraryDemo.exe
+C:\Users\Daniel\Documents\CodeTraining\LibraryDemo\obj\Debug\LibraryDemo.pdb
